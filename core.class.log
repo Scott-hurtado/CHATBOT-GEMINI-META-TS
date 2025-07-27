@@ -1,0 +1,28 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '5216623042312',
+  to: '15556239224',
+  body: 'Buenas tardes',
+  name: 'Sun Designs',
+  pushName: 'Sun Designs',
+  message_id: 'wamid.HBgNNTIxNjYyMzA0MjMxMhUCABIYIDYwMzVBOEU5RDkxMjgwMDBDQzcyMjNDODI5QzYwQzNGAA==',
+  timestamp: '1753649496',
+  host: '15556239224'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0e4fefe-db3a-4f36-8f17-9a2b4aaaa9f1',
+  keyword: 'key_99251926-75bf-4be0-8de4-a8c0ace1401e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '837b0d7cf3e130fa6fba8cb3ec5c0d49'
+}
